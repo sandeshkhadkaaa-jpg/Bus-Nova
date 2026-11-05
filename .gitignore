@@ -1,0 +1,9 @@
+# Never commit passenger information or local reservation records
+*.dat
+*.exe
+*.o
+*.log
+compile_log.txt
+.env
+.vscode/
+.DS_Store

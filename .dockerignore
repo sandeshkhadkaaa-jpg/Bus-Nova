@@ -1,0 +1,5 @@
+*.dat
+*.exe
+*.o
+.git
+.env
